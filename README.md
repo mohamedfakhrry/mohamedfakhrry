@@ -4,7 +4,7 @@
 ###  🔹Highly skilled Software Developer with 7+ years of experience in Software Development .
 
 
-###  🔹Expert in Flutter for , crafting high-performance, scalable Applications.
+###  🔹Expert in Flutter for crafting high-performance, scalable Applications.
 
 
 ---
