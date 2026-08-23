@@ -16,4 +16,4 @@
 * Expanding knowledge in production-grade deployments (Docker/K8s).
 
 ### 📫 Let's Connect
-* **Email:** itsfakhry@gmail.com
+* **Email:** contactmohamedfakhry@proton.me
