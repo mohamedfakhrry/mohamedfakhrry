@@ -3,8 +3,6 @@
 
 **A Backend Engineer with a programming background starting at age 12. After years of delivering complete applications independently as a freelancer, I transitioned fully to backend engineering in early 2026. My focus is on building secure, scalable, and maintainable APIs with clean architecture.**
 
-🎓 Currently in my final year of study and **fully available for a full-time Backend Engineer position**.
-
 ### 🛠 Technical Stack
 * **Languages & Frameworks:** Node.js (Express.js), JavaScript, Go (Basics)
 * **Databases:** PostgreSQL, MySQL, Database Design & Data Modeling
