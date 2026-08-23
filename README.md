@@ -7,17 +7,24 @@
 ###  🔹Expert in Flutter for crafting high-performance, scalable Applications.
 
 
----
----
+# Hi there, I'm Mohamed Fakhry 👋
+**Backend Engineer**
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=mohamedd8&theme=dark&hide_border=false)<br/>
+I am a Backend Engineer with a programming background starting at age 12. After years of delivering complete applications independently as a freelancer, I transitioned fully to backend engineering in early 2026. My focus is on building secure, scalable, and maintainable APIs with clean architecture.
 
+🎓 Currently in my final year of study and **fully available for a full-time Backend Engineer position**.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mohamedd8&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🛠 Technical Stack
+* **Languages & Frameworks:** Node.js (Express.js), JavaScript, Go (Basics)
+* **Databases:** PostgreSQL, MySQL, Database Design & Data Modeling
+* **APIs & Security:** RESTful APIs, Authentication & Authorization (JWT)
+* **Architecture:** Clean Architecture, System Design Fundamentals
+* **Tools & DevOps:** Git, Docker (Basics), Kubernetes (Basics)
 
----
-[![](https://visitcount.itsvg.in/api?id=mohamedd8&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🚀 Focus Areas
+* Building robust RESTful APIs with strict data isolation and security.
+* Writing clean, maintainable code separated by logical layers.
+* Expanding knowledge in production-grade deployments (Docker/K8s).
 
-
+### 📫 Let's Connect
+* **Email:** itsfakhry@gmail.com
