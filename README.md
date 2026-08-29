@@ -12,10 +12,6 @@
 * **Testing & Quality:** Unit Testing, Integration Testing, E2E Testing, TDD
 * **Tools & DevOps:** Git, GitHub, Docker, Kubernetes, AWS, CI/CD (GitHub Actions) 
 
-### 🚀 Focus Areas
-* Building robust RESTful APIs with strict data isolation and security.
-* Writing clean, maintainable code separated by logical layers.
-* Expanding knowledge in production-grade deployments (Docker/K8s).
 
 ### 📫 Let's Connect
 * **Email:** contactmohamedfakhry@proton.me
