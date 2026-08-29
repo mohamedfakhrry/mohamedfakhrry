@@ -7,7 +7,7 @@
 * **Languages & Frameworks:** TypeScript, JavaScript (Node.js), Go (Golang)
 * **Frameworks:** NestJS, Express.js
 * **Databases:** PostgreSQL, MongoDB, Redis (Caching), Database Design, Data Modeling, Query Optimization
-* **APIs & Communication:** RESTful APIs, WebSockets, Authentication & Authorization (JWT, OAuth 2.0), Role-Based Access Control (RBAC)
+* **APIs & Communication:** RESTful APIs, WebSockets, Authentication & Authorization (JWT, OAuth 2.0), Role-Based Access Control(RBAC)
 * **Architecture & Design:** Microservices, Event-Driven Architecture, Clean Architecture, System Design, SOLID Principles
 * **Testing & Quality:** Unit Testing, Integration Testing, E2E Testing, TDD
 * **Tools & DevOps:** Git, GitHub, Docker, Kubernetes, AWS, CI/CD (GitHub Actions) 
