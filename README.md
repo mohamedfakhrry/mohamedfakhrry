@@ -4,7 +4,7 @@
 **Software Engineer with five years of professional software development experience, building complete mobile and backend applications end-to-end. Self-taught programmer since age 12, driven by a passion for understanding how complete systems fit together — not just writing code, but seeing how every piece connects. This curiosity led toward mobile and backend development. Now fully focused on backend engineering, building production-grade APIs and backend systems.**
 
 ### 🛠 Technical Stack
-* **Languages & Frameworks:** TypeScript, JavaScript (Node.js), Go (Golang)
+* **Languages:** TypeScript, JavaScript (Node.js), Go (Golang)
 * **Frameworks:** NestJS, Express.js
 * **Databases:** PostgreSQL, MongoDB, Redis (Caching), Database Design, Data Modeling, Query Optimization
 * **APIs & Communication:** RESTful APIs, WebSockets, Authentication & Authorization (JWT, OAuth 2.0), RBAC
