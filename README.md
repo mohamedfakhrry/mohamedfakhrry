@@ -8,9 +8,9 @@
 * **Frameworks:** NestJS, Express.js
 * **Databases:** PostgreSQL, MongoDB, Redis (Caching), Database Design, Data Modeling, Query Optimization
 * **APIs & Communication:** RESTful APIs, WebSockets, Authentication & Authorization (JWT, OAuth 2.0), RBAC
-* **Architecture & Design:** Microservices, Event-Driven Architecture, Clean Architecture, System Design, SOLID Principles
+* **Architecture & Design:** Microservices, Event-Driven Architecture (Kafka), Clean Architecture, System Design, SOLID Principles
 * **Testing & Quality:** Unit Testing, Integration Testing, E2E Testing, TDD
-* **Tools & DevOps:** Git, GitHub, Docker, Kubernetes, AWS, CI/CD (GitHub Actions) 
+* **Tools & DevOps:** Git, GitHub, Docker, Kubernetes, CI/CD (GitHub Actions) 
 
 
 ### 📫 Let's Connect
