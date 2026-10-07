@@ -4,8 +4,8 @@
 **Backend engineer with six years of hands-on experience since 2020, from independent freelance work to a full-time engineering role, building production backend systems.**
 
 ### 🛠 Technical Stack
-* **Languages:** TypeScript, JavaScript (Node.js),
-* **Frameworks:** NestJS, Express.js
+* **Languages:** TypeScript, JavaScript, Go
+* **Runtime & Frameworks:** Node.js, NestJS, Express.js, Laravel
 * **Databases:** PostgreSQL, MongoDB, Redis (Caching), Database Design, Data Modeling, Query Optimization
 * **APIs & Communication:** RESTful APIs, WebSockets, Authentication & Authorization (JWT, OAuth 2.0), RBAC
 * **Architecture & Design:** Microservices, Event-Driven Architecture (Kafka), Clean Architecture, System Design, SOLID Principles
