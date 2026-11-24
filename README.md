@@ -8,10 +8,9 @@
 * **Familiar Languages:**  Java, C++, Python
 * **Runtime & Frameworks:** Node.js, NestJS, Express.js, Laravel
 * **Databases:** PostgreSQL, MongoDB, Redis (Caching), Database Design, Data Modeling, Query Optimization
-* **APIs & Communication:** RESTful APIs, WebSockets, Authentication & Authorization (JWT, OAuth 2.0), RBAC
-* **Architecture & Design:** Microservices, Event-Driven Architecture (Kafka), Clean Architecture, System Design, SOLID Principles
-* **Testing & Quality:** Unit Testing, Integration Testing, E2E Testing, TDD
-* **Tools & DevOps:** Git, GitHub, Docker, Kubernetes, CI/CD (GitHub Actions) 
+* **APIs & Communication:** RESTful APIs, WebSockets, Auth (JWT, OAuth 2.0), Role-Based Access Control (RBAC)
+* **Architecture & Design:** Microservices, Event-Driven Architecture (Kafka), Clean Architecture, System Design
+* **DevOps & Cloud** Git, GitHub, Docker, CI/CD (GitHub Actions)
 
 
 ### 📫 Let's Connect
